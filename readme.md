@@ -1,0 +1,1 @@
+To plik ze zmianami w kodzie w branch-u read
